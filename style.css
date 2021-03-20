@@ -1,0 +1,23 @@
+h1 {
+    color:darkgoldenrod;
+    font-family: Tahoma;
+    font-size: 60px;
+    
+}
+body {
+    color: black;
+    font-family: Tahoma;
+    background-image: url(pozadi2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    line-height: 30px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 10px 50px 70px 50px;
+}
+img {
+    float: right;
+    border-radius: 20%;
+  }
+  
+  
